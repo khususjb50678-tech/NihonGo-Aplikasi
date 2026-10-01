@@ -1,0 +1,7 @@
+{
+  "appId": "com.itco.japan",
+  "appName": "日本語",
+  "webDir": "www",
+  "backgroundColor": "#080808",
+  "android": { "allowMixedContent": false }
+}
